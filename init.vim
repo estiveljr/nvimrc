@@ -1,4 +1,5 @@
 inoremap jj <Esc>
+"call plug#begin('~/.local/share/nvim/plugged')
 "AcpDisable
 set ruler 
 set nocompatible        " Use Vim settings, rather than Vi settings
